@@ -17,3 +17,5 @@ Strong, complex passwords with symbols and mixed cases (like Phello$hip_34) resi
 💡 Takeaway:
  This small project highlighted the real-world importance of using strong, non-dictionary, uncommon and complex passwords. Even with hashing in place, poor password practices remain the biggest vulnerability.
 
+ You can download the password dictionary from this site: https://weakpass.com/wordlists/rockyou.txt
+
